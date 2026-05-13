@@ -8,7 +8,7 @@
 - 🔭 IT Specialist at **NAWY** — Cairo, Egypt
 - 🌱 Learning **Penetration Testing** & **Linux Security**
 - 🎯 Goal: Become a **Security Engineer**
-- 📜 Certified: **CCNA** (Introduction, Enterprise, Switching & Routing)
+- 📚 Completed: **Cisco CCNA** courses (Introduction, Enterprise, Switching & Routing)
 
 ---
 
