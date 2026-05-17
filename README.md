@@ -29,11 +29,15 @@
 | Metasploitable2 — vsftpd 2.3.4 | Metasploit | Root shell ✅ |
 | Metasploitable2 — Bindshell | Netcat | Root access ✅ |
 | TryHackMe — Active Directory | Manual | Completed ✅ |
+| Metasploitable2 — Samba      | Metasploit | Root shell ✅
+| Metasploitable2 — MySQL      | mysql CLI  | DB access ✅
+| Metasploitable2 — UnrealIRCd | Metasploit | Root shell ✅
 
 ---
 
 ### 📂 Projects
 - 🔧 [bash-scripts](https://github.com/AymanAhmedAli/bash-scripts) — Pentesting & Sysadmin Bash Tools
+- 🐍 [python](https://github.com/AymanAhmedAli/bash-scripts)  — Python Recon & Pentesting Tools
 
 ---
 
