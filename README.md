@@ -37,7 +37,7 @@
 
 ### 📂 Projects
 - 🔧 [bash-scripts](https://github.com/AymanAhmedAli/bash-scripts) — Pentesting & Sysadmin Bash Tools
-- 🐍 [python](https://github.com/AymanAhmedAli/bash-scripts)  — Python Recon & Pentesting Tools
+- 🐍 [python](https://github.com/AymanAhmedAli/python-tools)  — Python Recon & Pentesting Tools
 
 ---
 
