@@ -38,9 +38,10 @@
 ---
 
 ### 📝 Security Writeups
-- 🔍 [vsftpd 2.3.4 Analysis](bash-scripts/vsftpd_writeup.md) — CVE-2011-2523
-- 🌐 [Networking Security Notes](bash-scripts/networking_notes.md)
-
+- 🔍 [vsftpd 2.3.4 Analysis](https://github.com/AymanAhmedAli/bash-scripts/blob/main/vsftpd_writeup.md) — CVE-2011-2523
+- 🌐 [Networking Security Notes](https://github.com/AymanAhmedAli/bash-scripts/blob/main/networking_notes.md)
+---
+  
 ### 📂 Projects
 - 🔧 [bash-scripts](https://github.com/AymanAhmedAli/bash-scripts) — Pentesting & Sysadmin Bash Tools
 - 🐍 [python](https://github.com/AymanAhmedAli/python-tools)  — Python Recon & Pentesting Tools
