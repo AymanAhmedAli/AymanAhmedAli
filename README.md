@@ -5,9 +5,9 @@
 
 ### 🧑‍💻 About Me
 - 🔭 IT Specialist at **NAWY** — Cairo, Egypt
-- 🌱 Learning **Penetration Testing** & **Linux Security**
-- 🎯 Goal: Become a **Security Engineer**
-- 📚 Completed: **Cisco CCNA** courses (Introduction, Enterprise, Switching & Routing)
+- 🌱 Building **Penetration Testing** & **Network Security** skills
+- 🎯 Goal: **Network Security Engineer** / Penetration Tester
+- 📚 Cisco CCNA courses completed + TryHackMe Platinum (30+ rooms)
 
 ---
 
@@ -20,20 +20,26 @@
 ![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=flat&logo=windows&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
 ---
 
 ### 🔴 Pentesting Labs
 | Lab | Tools | Result |
 |-----|-------|--------|
-| Metasploitable2 — vsftpd 2.3.4 | Metasploit | Root shell ✅ |
-| Metasploitable2 — Bindshell | Netcat | Root access ✅ |
-| TryHackMe — Active Directory | Manual | Completed ✅ |
-| Metasploitable2 — Samba      | Metasploit | Root shell ✅
-| Metasploitable2 — MySQL      | mysql CLI  | DB access ✅
-| Metasploitable2 — UnrealIRCd | Metasploit | Root shell ✅
-
+| Metasploitable2 — vsftpd 2.3.4 (CVE-2011-2523) | Metasploit | Root shell ✅ |
+| Metasploitable2 — Bindshell port 1524 | Netcat | Root shell ✅ |
+| Metasploitable2 — Samba (CVE-2007-2447) | Metasploit | Root shell ✅ |
+| Metasploitable2 — MySQL No Password | mysql CLI | DB access ✅ |
+| Metasploitable2 — UnrealIRCd (CVE-2010-2075) | Metasploit | Root shell ✅ |
+| TryHackMe — Blue (EternalBlue MS17-010) | Metasploit | SYSTEM ✅ |
+| Password Cracking — /etc/shadow | John the Ripper | 3 hashes cracked ✅ |
 ---
+
+### 📝 Security Writeups
+- 🔍 [vsftpd 2.3.4 Analysis](bash-scripts/vsftpd_writeup.md) — CVE-2011-2523
+- 🌐 [Networking Security Notes](bash-scripts/networking_notes.md)
 
 ### 📂 Projects
 - 🔧 [bash-scripts](https://github.com/AymanAhmedAli/bash-scripts) — Pentesting & Sysadmin Bash Tools
@@ -41,8 +47,10 @@
 
 ---
 
-### 📊 TryHackMe
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat&logo=tryhackme)](https://tryhackme.com/p/aymanahmed)
+### 📊 TryHackMe — Platinum Rank 🏆
+- 30+ rooms completed
+- Blue badge — EternalBlue (top 10%)
+- 30+ day streak
 
 ---
 
