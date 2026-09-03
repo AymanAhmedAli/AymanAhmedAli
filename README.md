@@ -38,13 +38,15 @@
 ---
 
 ### 📝 Security Writeups
-- 🔍 [vsftpd 2.3.4 Analysis](https://github.com/AymanAhmedAli/bash-scripts/blob/main/vsftpd_writeup.md) — CVE-2011-2523
-- 🌐 [Networking Security Notes](https://github.com/AymanAhmedAli/bash-scripts/blob/main/networking_notes.md)
+- 🔍 [vsftpd 2.3.4 Analysis](https://github.com/AymanAhmedAli/Security-notes/blob/main/pentesting/vsftpd_writeup.md) — CVE-2011-2523
+- 🌐 [Networking Security Notes](https://github.com/AymanAhmedAli/Security-notes/blob/main/networking/networking_notes.md)
+- 📡 [CCNA Security Notes](https://github.com/AymanAhmedAli/Security-notes/blob/main/ccna/ccna_security_notes.md)
 ---
   
 ### 📂 Projects
 - 🔧 [bash-scripts](https://github.com/AymanAhmedAli/bash-scripts) — Pentesting & Sysadmin Bash Tools
-- 🐍 [python](https://github.com/AymanAhmedAli/python-tools)  — Python Recon & Pentesting Tools
+- 🐍 [python-tools](https://github.com/AymanAhmedAli/python-tools) — Python Recon & Pentesting Tools
+- 📒 [security-notes](https://github.com/AymanAhmedAli/Security-notes) — Networking, Pentesting & CCNA Notes
 
 ---
 
