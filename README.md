@@ -41,6 +41,7 @@
 - 🔍 [vsftpd 2.3.4 Analysis](https://github.com/AymanAhmedAli/Security-notes/blob/main/pentesting/vsftpd_writeup.md) — CVE-2011-2523
 - 🌐 [Networking Security Notes](https://github.com/AymanAhmedAli/Security-notes/blob/main/networking/networking_notes.md)
 - 📡 [CCNA Security Notes](https://github.com/AymanAhmedAli/Security-notes/blob/main/ccna/ccna_security_notes.md)
+- 🔥 [fortigate-elastic-siem](https://github.com/AymanAhmedAli/fortigate-elastic-siem) — FortiGate logs integration with Elastic Stack for real-time SIEM
 ---
   
 ### 📂 Projects
