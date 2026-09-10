@@ -42,6 +42,7 @@
 - 🌐 [Networking Security Notes](https://github.com/AymanAhmedAli/Security-notes/blob/main/networking/networking_notes.md)
 - 📡 [CCNA Security Notes](https://github.com/AymanAhmedAli/Security-notes/blob/main/ccna/ccna_security_notes.md)
 - 🔥 [fortigate-elastic-siem](https://github.com/AymanAhmedAli/fortigate-elastic-siem) — FortiGate logs integration with Elastic Stack for real-time SIEM
+-    [Glpi-Assest-Management](https://github.com/AymanAhmedAli/glpi-asset-management) 
 ---
   
 ### 📂 Projects
