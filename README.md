@@ -49,7 +49,7 @@
 - 🔧 [bash-scripts](https://github.com/AymanAhmedAli/bash-scripts) — Pentesting & Sysadmin Bash Tools
 - 🐍 [python-tools](https://github.com/AymanAhmedAli/python-tools) — Python Recon & Pentesting Tools
 - 📒 [security-notes](https://github.com/AymanAhmedAli/Security-notes) — Networking, Pentesting & CCNA Notes
-
+- 🔷 [powershell-scripts](https://github.com/AymanAhmedAli/powershell-scripts) — AD security auditing and IT automation scripts
 ---
 
 ### 📊 TryHackMe — Platinum Rank 🏆
