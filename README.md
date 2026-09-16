@@ -22,6 +22,8 @@
 ![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=flat&logo=elastic&logoColor=white)
 
 ---
 
@@ -35,6 +37,7 @@
 | Metasploitable2 — UnrealIRCd (CVE-2010-2075) | Metasploit | Root shell ✅ |
 | TryHackMe — Blue (EternalBlue MS17-010) | Metasploit | SYSTEM ✅ |
 | Password Cracking — /etc/shadow | John the Ripper | 3 hashes cracked ✅ |
+| AD Security Hardening — 9 Critical findings | PowerShell + GPO | 13/14 Fixed ✅ |
 ---
 
 ### 📝 Security Writeups
@@ -43,6 +46,7 @@
 - 📡 [CCNA Security Notes](https://github.com/AymanAhmedAli/Security-notes/blob/main/ccna/ccna_security_notes.md)
 - 🔥 [fortigate-elastic-siem](https://github.com/AymanAhmedAli/fortigate-elastic-siem) — FortiGate & DC logs integration with Elastic Stack for real-time SIEM
 - 🖥️ [Glpi-Assest-Management](https://github.com/AymanAhmedAli/glpi-asset-management) — End-to-end IT Asset Management implementation
+- 🔷 [powershell-scripts](https://github.com/AymanAhmedAli/powershell-scripts) — 17 PowerShell scripts for AD security audit & hardening — 13/14 findings resolved with timestamped evidence
 ---
   
 ### 📂 Projects
