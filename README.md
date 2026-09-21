@@ -38,9 +38,8 @@
 | Metasploitable2 — MySQL No Password | mysql CLI | DB access ✅ |
 | Metasploitable2 — UnrealIRCd (CVE-2010-2075) | Metasploit | Root shell ✅ |
 | TryHackMe — Blue (EternalBlue MS17-010) | Metasploit | SYSTEM ✅ |
-| Password Cracking — /etc/shadow | John the Ripper | 3 hashes cracked ✅ |
+| Password Cracking — /etc/shadow, MD5, SHA-1 | John + Hashcat + crunch | 9 hashes cracked ✅ |
 | AD Security Hardening — 9 Critical findings | PowerShell + GPO | 13/14 Fixed ✅ |
-| Password Cracking — MD5, SHA-1 | John + Hashcat + crunch | 6 hashes cracked ✅ |
 ---
 
 ### 📝 Security Writeups
