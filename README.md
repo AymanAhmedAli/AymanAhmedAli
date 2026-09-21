@@ -56,6 +56,7 @@
 - 🐍 [python-tools](https://github.com/AymanAhmedAli/python-tools) — Python Recon & Pentesting Tools
 - 📒 [security-notes](https://github.com/AymanAhmedAli/Security-notes) — Networking, Pentesting & CCNA Notes
 - 🔷 [powershell-scripts](https://github.com/AymanAhmedAli/powershell-scripts) — AD security auditing and IT automation scripts
+- 🔑 [security-notes/password-cracking](https://github.com/AymanAhmedAli/security-notes/tree/main/password-cracking) — Password cracking labs with John, Hashcat rules & mask attacks
 ---
 
 ### 📊 TryHackMe — Platinum Rank 🏆
