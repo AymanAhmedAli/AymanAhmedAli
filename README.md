@@ -8,7 +8,7 @@
 - 🌱 Building **Penetration Testing** & **Network Security** skills
 - 🎯 Goal: **Network Security Engineer** / Penetration Tester
 - 📚 Cisco CCNA courses completed + TryHackMe Platinum (30+ rooms)
-
+- 🔐 **Password Cracking** — John the Ripper, Hashcat (rules + mask attacks), crunch
 ---
 
 ### 🛠️ Tech Stack
@@ -24,6 +24,8 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=flat&logo=elastic&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-FF0000?style=flat&logoColor=white)
+![John](https://img.shields.io/badge/John_the_Ripper-333333?style=flat&logoColor=white)
 
 ---
 
@@ -38,6 +40,7 @@
 | TryHackMe — Blue (EternalBlue MS17-010) | Metasploit | SYSTEM ✅ |
 | Password Cracking — /etc/shadow | John the Ripper | 3 hashes cracked ✅ |
 | AD Security Hardening — 9 Critical findings | PowerShell + GPO | 13/14 Fixed ✅ |
+| Password Cracking — MD5, SHA-1 | John + Hashcat + crunch | 6 hashes cracked ✅ |
 ---
 
 ### 📝 Security Writeups
