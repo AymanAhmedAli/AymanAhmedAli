@@ -32,6 +32,8 @@
 ### 🔴 Pentesting Labs
 | Lab | Tools | Result |
 |-----|-------|--------|
+| AD Dashboard — Auth & Session Security | PowerShell/Pode + JS | 12+ bugs found & fixed ✅ |
+| AD Security Hardening — 9 Critical findings | PowerShell + GPO | 13/14 Fixed ✅ |
 | Metasploitable2 — vsftpd 2.3.4 (CVE-2011-2523) | Metasploit | Root shell ✅ |
 | Metasploitable2 — Bindshell port 1524 | Netcat | Root shell ✅ |
 | Metasploitable2 — Samba (CVE-2007-2447) | Metasploit | Root shell ✅ |
@@ -39,7 +41,7 @@
 | Metasploitable2 — UnrealIRCd (CVE-2010-2075) | Metasploit | Root shell ✅ |
 | TryHackMe — Blue (EternalBlue MS17-010) | Metasploit | SYSTEM ✅ |
 | Password Cracking — /etc/shadow, MD5, SHA-1 | John + Hashcat + crunch | 9 hashes cracked ✅ |
-| AD Security Hardening — 9 Critical findings | PowerShell + GPO | 13/14 Fixed ✅ |
+
 ---
 
 ### 📝 Security Writeups
@@ -50,8 +52,9 @@
 - 🖥️ [Glpi-Assest-Management](https://github.com/AymanAhmedAli/glpi-asset-management) — End-to-end IT Asset Management implementation
 - 🔷 [powershell-scripts](https://github.com/AymanAhmedAli/powershell-scripts) — 17 PowerShell scripts for AD security audit & hardening — 13/14 findings resolved with timestamped evidence
 ---
-  
+
 ### 📂 Projects
+- 🔐 [ad-operations-dashboard](https://github.com/AymanAhmedAli/ad-operations-dashboard) — AD-integrated IT ops dashboard with authentication, RBAC, and audit logging. Diagnosed and fixed a cross-origin session cookie bug via reverse proxy architecture.
 - 🔧 [bash-scripts](https://github.com/AymanAhmedAli/bash-scripts) — Pentesting & Sysadmin Bash Tools
 - 🐍 [python-tools](https://github.com/AymanAhmedAli/python-tools) — Python Recon & Pentesting Tools
 - 📒 [security-notes](https://github.com/AymanAhmedAli/Security-notes) — Networking, Pentesting & CCNA Notes
