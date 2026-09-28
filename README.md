@@ -54,12 +54,15 @@
 ---
 
 ### 📂 Projects
-- 🔐 [ad-operations-dashboard](https://github.com/AymanAhmedAli/ad-operations-dashboard) — AD-integrated IT ops dashboard with authentication, RBAC, and audit logging. Diagnosed and fixed a cross-origin session cookie bug via reverse proxy architecture.
-- 🔧 [bash-scripts](https://github.com/AymanAhmedAli/bash-scripts) — Pentesting & Sysadmin Bash Tools
-- 🐍 [python-tools](https://github.com/AymanAhmedAli/python-tools) — Python Recon & Pentesting Tools
-- 📒 [security-notes](https://github.com/AymanAhmedAli/Security-notes) — Networking, Pentesting & CCNA Notes
-- 🔷 [powershell-scripts](https://github.com/AymanAhmedAli/powershell-scripts) — AD security auditing and IT automation scripts
+- 🔐 [ad-operations-dashboard](https://github.com/AymanAhmedAli/ad-operations-dashboard) — **[Latest]** AD-integrated IT ops dashboard with authentication, RBAC, and audit logging. Diagnosed and fixed a cross-origin session cookie bug via reverse proxy architecture.
+- 🔥 [fortigate-elastic-siem](https://github.com/AymanAhmedAli/fortigate-elastic-siem) — FortiGate & DC logs integration with Elastic Stack for real-time SIEM
+- 🖥️ [glpi-asset-management](https://github.com/AymanAhmedAli/glpi-asset-management) — End-to-end IT Asset Management implementation (1,500+ users, 2,700+ devices)
+- 🔷 [powershell-scripts](https://github.com/AymanAhmedAli/powershell-scripts) — AD security auditing and IT automation scripts (17 scripts, 13/14 findings resolved with evidence)
 - 🔑 [security-notes/password-cracking](https://github.com/AymanAhmedAli/security-notes/tree/main/password-cracking) — Password cracking labs with John, Hashcat rules & mask attacks
+- 🐍 [python-tools](https://github.com/AymanAhmedAli/python-tools) — Python Recon & Pentesting Tools (port scanner, subdomain enum, hash identifier)
+- 🔧 [bash-scripts](https://github.com/AymanAhmedAli/bash-scripts) — Pentesting & Sysadmin Bash Tools
+- 📒 [security-notes](https://github.com/AymanAhmedAli/Security-notes) — Networking, Pentesting & CCNA Notes
+---
 ---
 
 ### 📊 TryHackMe — Platinum Rank 🏆
